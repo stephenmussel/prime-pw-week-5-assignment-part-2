@@ -1,0 +1,15 @@
+header {
+  background-color: darkblue;
+  color: lightblue;
+  text-align: center;
+}
+
+.main {
+  background-color: lightgrey;
+}
+
+body {
+  background-image: url('/Users/EVILMPLS/Documents/Prime/tier1/prime-pw-week-5-assignment-part-2/example.png');
+  background-repeat: repeat;
+
+}
